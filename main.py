@@ -20,6 +20,10 @@
 from West import america, italy, germany
 from East import china
 def car_ass():
-    print(f'{america.body()},{china.chasis()},{germany.engines()}, and {italy.tyres()} makes a car')
+    """
+    This function generates a string describing the components of a car.
+    It takes no parameters and returns no value, instead printing the result directly.
+    """
+    print(f'{america.body()}, {china.chasis()}, {germany.engines()}, and {italy.tyres()} makes a car')
 
 car_ass()
