@@ -1,0 +1,3 @@
+def body():
+    return "body"
+    

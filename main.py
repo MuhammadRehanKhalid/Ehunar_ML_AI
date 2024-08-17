@@ -17,7 +17,7 @@ from germany import engines
 # tyres
 from italy import tyres
 
-def car_ass()
-print(f'{body()},{none},{none}, and {none} makes a car')
+def car_ass():
+    print(f'{body()},{chasis()},{engines()}, and {tyres()} makes a car')
 
 car_ass()

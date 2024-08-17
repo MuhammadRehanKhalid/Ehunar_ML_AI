@@ -1,2 +1,0 @@
-def tyres():
-    return tyres

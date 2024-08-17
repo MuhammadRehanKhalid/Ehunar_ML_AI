@@ -1,3 +1,0 @@
-def body():
-    return body
-    
